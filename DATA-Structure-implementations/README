@@ -1,0 +1,17 @@
+Data Structures Revision List
+
+	1.	Array
+	2.	Linked List (Singly Linked List, Doubly Linked List, Circular Linked List)
+	3.	Stack
+	4.	Queue (including Circular Queue)
+	5.	Priority Queue
+	6.	Binary Tree (Binary Search Tree, AVL Tree, Red-Black Tree)
+	7.	Heap (Min Heap, Max Heap)
+	8.	Hash Table (Open Addressing, Separate Chaining)
+	9.	Graph (Adjacency Matrix, Adjacency List)
+	10.	Trie
+	11.	Segment Tree
+	12.	Fenwick Tree (Binary Indexed Tree)
+	13.	Disjoint Set (Union-Find)
+	14.	Skip List
+	15.	B-Tree
